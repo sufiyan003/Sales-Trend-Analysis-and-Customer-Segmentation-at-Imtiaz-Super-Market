@@ -1,0 +1,113 @@
+product_key,product_name,category,product_id
+1,Samosa 4pcs,Bakery,PROD0001
+2,Cheddar Cheese 200g,Dairy,PROD0002
+3,Football size 4,Toys & Sports,PROD0003
+4,ORS Sachet 6pcs,Pharmacy & Health,PROD0004
+5,Ponds Face Wash 100g,Personal Care,PROD0005
+6,Capsicum 1kg,Fruits & Vegetables,PROD0006
+7,Naan 4pcs,Bakery,PROD0007
+8,Gillette Razor 2pcs,Personal Care,PROD0008
+9,Chicken Boneless 1kg,Meat & Seafood,PROD0009
+10,Fair & Lovely 50g,Personal Care,PROD0010
+11,Walls Ice Cream 1L,Grocery,PROD0011
+12,Sensodyne Toothpaste,Pharmacy & Health,PROD0012
+13,Sunsilk Shampoo 400ml,Grocery,PROD0013
+14,Puzzle 500pcs,Toys & Sports,PROD0014
+15,Nivea Moisturizer 200ml,Personal Care,PROD0015
+16,Mop & Bucket,Household,PROD0016
+17,Shan Biryani Masala,Grocery,PROD0017
+18,Skipping Rope,Toys & Sports,PROD0018
+19,Lux Soap 3pcs,Personal Care,PROD0019
+20,Dish Soap Vim 500ml,Household,PROD0020
+21,Curtain Rod,Household,PROD0021
+22,Surf Excel 1kg,Grocery,PROD0022
+23,Johnson Baby Powder 200g,Pharmacy & Health,PROD0023
+24,Garlic 250g,Fruits & Vegetables,PROD0024
+25,White Bread large,Bakery,PROD0025
+26,Men's Socks 3pcs,Clothing & Fabric,PROD0026
+27,Chicken Liver 500g,Meat & Seafood,PROD0027
+28,Beef Mince 1kg,Meat & Seafood,PROD0028
+29,Mr. Muscle Cleaner,Household,PROD0029
+30,Scotch Tape,Stationery,PROD0030
+31,Laptop Cooling Pad,Electronics,PROD0031
+32,Garbage Bags 30pcs,Household,PROD0032
+33,Beef Steak 500g,Meat & Seafood,PROD0033
+34,Kids T-Shirt,Clothing & Fabric,PROD0034
+35,UHT Milk Haleeb 1L,Dairy,PROD0035
+36,Pita Bread 4pcs,Bakery,PROD0036
+37,Cricket Bat junior,Toys & Sports,PROD0037
+38,Spinach bunch,Fruits & Vegetables,PROD0038
+39,Women's Innerwear set,Clothing & Fabric,PROD0039
+40,Sooper Biscuits,Grocery,PROD0040
+41,Shrimp 500g,Meat & Seafood,PROD0041
+42,Coriander bunch,Fruits & Vegetables,PROD0042
+43,Nurpur Butter 200g,Grocery,PROD0043
+44,Croissant,Bakery,PROD0044
+45,Fish Fillet 500g,Meat & Seafood,PROD0045
+46,USB Cable Type-C,Electronics,PROD0046
+47,Mehran Basmati Rice 5kg,Grocery,PROD0047
+48,Badminton Set,Toys & Sports,PROD0048
+49,Savlon Antiseptic 100ml,Pharmacy & Health,PROD0049
+50,Tomatoes 1kg,Fruits & Vegetables,PROD0050
+51,Women's Dupatta,Clothing & Fabric,PROD0051
+52,Broom set,Household,PROD0052
+53,Mutton 1kg,Meat & Seafood,PROD0053
+54,Rusk packet,Bakery,PROD0054
+55,Potatoes 1kg,Fruits & Vegetables,PROD0055
+56,Knorr Noodles,Grocery,PROD0056
+57,Philips LED Bulb 15W,Electronics,PROD0057
+58,File Folder 10pcs,Stationery,PROD0058
+59,Hangers 10pcs,Household,PROD0059
+60,Dalda Cooking Oil 5L,Grocery,PROD0060
+61,Power Bank 10000mAh,Electronics,PROD0061
+62,Notebook A4 200pg,Stationery,PROD0062
+63,School Uniform Shirt,Clothing & Fabric,PROD0063
+64,Head & Shoulders 400ml,Personal Care,PROD0064
+65,Dettol Handwash 500ml,Personal Care,PROD0065
+66,Peek Freans Cake,Grocery,PROD0066
+67,Cucumber 1kg,Fruits & Vegetables,PROD0067
+68,National Salt 800g,Grocery,PROD0068
+69,Bun Kebab rolls 6pcs,Bakery,PROD0069
+70,Mouse Wireless,Electronics,PROD0070
+71,Baby Romper,Clothing & Fabric,PROD0071
+72,Mangoes 1kg,Fruits & Vegetables,PROD0072
+73,Men's Kameez,Clothing & Fabric,PROD0073
+74,Vitamin C 500mg 30tabs,Pharmacy & Health,PROD0074
+75,Panadol 10 tablets,Pharmacy & Health,PROD0075
+76,Onions 1kg,Fruits & Vegetables,PROD0076
+77,Marker set 6pcs,Stationery,PROD0077
+78,Nestle Yogurt 400g,Dairy,PROD0078
+79,Ariel Detergent 2kg,Grocery,PROD0079
+80,Sponge Scrubber 3pcs,Household,PROD0080
+81,Chicken Whole 1kg,Meat & Seafood,PROD0081
+82,Bathroom Mat,Household,PROD0082
+83,Scissors,Stationery,PROD0083
+84,Cupcake 2pcs,Bakery,PROD0084
+85,Chocolate Cake slice,Bakery,PROD0085
+86,Apples 1kg,Fruits & Vegetables,PROD0086
+87,Stapler,Stationery,PROD0087
+88,Pencil box,Stationery,PROD0088
+89,Lassi Nurpur 500ml,Dairy,PROD0089
+90,Cream Cheese 180g,Dairy,PROD0090
+91,Bananas dozen,Fruits & Vegetables,PROD0091
+92,Brown Bread,Bakery,PROD0092
+93,Ginger 250g,Fruits & Vegetables,PROD0093
+94,Gourmet Eggs 12pcs,Dairy,PROD0094
+95,Nurpur Desi Ghee 1kg,Dairy,PROD0095
+96,Tapal Danedar Tea 950g,Grocery,PROD0096
+97,Plastic Storage Box,Household,PROD0097
+98,Frisbee,Toys & Sports,PROD0098
+99,Dove Soap 3pcs,Personal Care,PROD0099
+100,Barbie doll,Toys & Sports,PROD0100
+101,Lawn Fabric 3m,Clothing & Fabric,PROD0101
+102,Olper's Cream 200ml,Dairy,PROD0102
+103,Earphones,Electronics,PROD0103
+104,Nestle Milo 400g,Grocery,PROD0104
+105,Disprin 10 tablets,Pharmacy & Health,PROD0105
+106,Dettol Soap 115g,Pharmacy & Health,PROD0106
+107,Pen set 5pcs,Stationery,PROD0107
+108,National Pickle 800g,Grocery,PROD0108
+109,Extension Cord 3m,Electronics,PROD0109
+110,AA Batteries 4pcs,Electronics,PROD0110
+111,Lego basic set,Toys & Sports,PROD0111
+112,Olper's Milk 1L,Grocery,PROD0112

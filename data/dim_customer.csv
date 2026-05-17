@@ -1,0 +1,501 @@
+customer_key,customer_id,customer_name,gender,age_group,area,city,loyalty_member,customer_segment
+1,CUST0001,Ahmed Baig,Male,26-35,DHA Phase 5,Karachi,No,Low Value
+2,CUST0002,Naveed Hashmi,Male,18-25,Bahadurabad,Karachi,Yes,Mid Value
+3,CUST0003,Kashif Qureshi,Male,56+,Tariq Road,Karachi,Yes,Mid Value
+4,CUST0004,Lubna Baig,Female,26-35,Bahadurabad,Karachi,Yes,Low Value
+5,CUST0005,Kamran Hussain,Male,18-25,Nazimabad,Karachi,Yes,High Value
+6,CUST0006,Mehwish Baig,Female,56+,Bahadurabad,Karachi,Yes,Low Value
+7,CUST0007,Zainab Raza,Female,56+,Clifton,Karachi,No,Mid Value
+8,CUST0008,Ali Ahmed,Male,26-35,PECHS,Karachi,Yes,High Value
+9,CUST0009,Adnan Baig,Male,56+,North Nazimabad,Karachi,Yes,High Value
+10,CUST0010,Rabia Baig,Female,56+,Tariq Road,Karachi,No,High Value
+11,CUST0011,Bilal Chaudhry,Male,26-35,Sharafabad,Karachi,No,Mid Value
+12,CUST0012,Ayesha Ansari,Female,36-45,Bahadurabad,Karachi,Yes,High Value
+13,CUST0013,Naveed Hussain,Male,56+,DHA Phase 5,Karachi,No,High Value
+14,CUST0014,Hina Baig,Female,26-35,DHA Phase 1,Karachi,No,Mid Value
+15,CUST0015,Lubna Rizvi,Female,26-35,Gulshan-e-Iqbal,Karachi,Yes,High Value
+16,CUST0016,Muhammad Sheikh,Male,56+,DHA Phase 1,Karachi,No,High Value
+17,CUST0017,Adnan Rizvi,Male,46-55,Awami Markaz,Karachi,No,High Value
+18,CUST0018,Hassan Raza,Male,56+,Clifton,Karachi,Yes,Mid Value
+19,CUST0019,Nadia Chaudhry,Female,56+,Bahadurabad,Karachi,Yes,Mid Value
+20,CUST0020,Tariq Akhtar,Male,26-35,Awami Markaz,Karachi,Yes,Low Value
+21,CUST0021,Rizwan Hussain,Male,18-25,North Nazimabad,Karachi,Yes,Mid Value
+22,CUST0022,Muhammad Ansari,Male,18-25,Awami Markaz,Karachi,Yes,High Value
+23,CUST0023,Usman Butt,Male,26-35,Malir,Karachi,No,Mid Value
+24,CUST0024,Rabia Raza,Female,56+,Tariq Road,Karachi,Yes,High Value
+25,CUST0025,Bushra Akhtar,Female,18-25,North Nazimabad,Karachi,Yes,Mid Value
+26,CUST0026,Fatima Javed,Female,26-35,Malir,Karachi,Yes,Low Value
+27,CUST0027,Muhammad Ansari,Male,18-25,Nazimabad,Karachi,No,Mid Value
+28,CUST0028,Imran Butt,Male,46-55,DHA Phase 5,Karachi,Yes,Low Value
+29,CUST0029,Uzma Qureshi,Female,18-25,Nazimabad,Karachi,Yes,Mid Value
+30,CUST0030,Bushra Ahmed,Female,56+,PECHS,Karachi,Yes,Mid Value
+31,CUST0031,Sana Ansari,Female,26-35,DHA Phase 5,Karachi,Yes,Mid Value
+32,CUST0032,Nadia Baig,Female,26-35,North Nazimabad,Karachi,No,High Value
+33,CUST0033,Muhammad Raza,Male,18-25,Bahadurabad,Karachi,Yes,Mid Value
+34,CUST0034,Noor Qureshi,Female,18-25,Sharafabad,Karachi,Yes,Mid Value
+35,CUST0035,Amna Chaudhry,Female,36-45,Clifton,Karachi,Yes,Mid Value
+36,CUST0036,Tariq Qureshi,Male,46-55,Bahadurabad,Karachi,No,Low Value
+37,CUST0037,Ayesha Ahmed,Female,46-55,Awami Markaz,Karachi,Yes,Mid Value
+38,CUST0038,Junaid Ali,Male,18-25,DHA Phase 1,Karachi,No,High Value
+39,CUST0039,Adnan Sheikh,Male,26-35,Awami Markaz,Karachi,No,Mid Value
+40,CUST0040,Salman Javed,Male,46-55,Awami Markaz,Karachi,Yes,Mid Value
+41,CUST0041,Sobia Baig,Female,26-35,Sharafabad,Karachi,Yes,Mid Value
+42,CUST0042,Ahmed Chaudhry,Male,46-55,Awami Markaz,Karachi,No,Mid Value
+43,CUST0043,Junaid Baig,Male,36-45,DHA Phase 1,Karachi,Yes,Mid Value
+44,CUST0044,Nadia Chaudhry,Female,56+,Malir,Karachi,Yes,High Value
+45,CUST0045,Sana Siddiqui,Female,18-25,Clifton,Karachi,Yes,Mid Value
+46,CUST0046,Mehwish Qureshi,Female,36-45,Tariq Road,Karachi,No,High Value
+47,CUST0047,Amna Ahmed,Female,56+,Nazimabad,Karachi,Yes,Mid Value
+48,CUST0048,Zubair Siddiqui,Male,26-35,PECHS,Karachi,No,Mid Value
+49,CUST0049,Saima Khan,Female,18-25,Nazimabad,Karachi,Yes,Mid Value
+50,CUST0050,Salman Siddiqui,Male,36-45,Bahadurabad,Karachi,Yes,High Value
+51,CUST0051,Faisal Sheikh,Male,46-55,Gulshan-e-Iqbal,Karachi,Yes,Mid Value
+52,CUST0052,Bilal Hashmi,Male,26-35,Bahadurabad,Karachi,No,High Value
+53,CUST0053,Imran Malik,Male,18-25,Tariq Road,Karachi,Yes,Mid Value
+54,CUST0054,Kamran Chaudhry,Male,36-45,Gulshan-e-Iqbal,Karachi,Yes,High Value
+55,CUST0055,Adnan Hussain,Male,18-25,Clifton,Karachi,No,Low Value
+56,CUST0056,Saima Hussain,Female,18-25,Bahadurabad,Karachi,No,High Value
+57,CUST0057,Ayesha Sheikh,Female,36-45,Awami Markaz,Karachi,Yes,High Value
+58,CUST0058,Adnan Javed,Male,26-35,DHA Phase 5,Karachi,Yes,Mid Value
+59,CUST0059,Waseem Hashmi,Male,56+,Nazimabad,Karachi,No,High Value
+60,CUST0060,Tariq Akhtar,Male,56+,Clifton,Karachi,Yes,Mid Value
+61,CUST0061,Saima Siddiqui,Female,36-45,DHA Phase 5,Karachi,No,Low Value
+62,CUST0062,Shazia Raza,Female,36-45,Bahadurabad,Karachi,Yes,Low Value
+63,CUST0063,Bushra Chaudhry,Female,56+,North Nazimabad,Karachi,Yes,High Value
+64,CUST0064,Ali Mirza,Male,56+,Malir,Karachi,Yes,Mid Value
+65,CUST0065,Tariq Ansari,Male,26-35,DHA Phase 5,Karachi,Yes,High Value
+66,CUST0066,Mehwish Ali,Female,36-45,North Nazimabad,Karachi,No,Mid Value
+67,CUST0067,Noor Rizvi,Female,26-35,DHA Phase 5,Karachi,Yes,High Value
+68,CUST0068,Bilal Akhtar,Male,18-25,North Nazimabad,Karachi,Yes,High Value
+69,CUST0069,Hina Chaudhry,Female,46-55,PECHS,Karachi,Yes,Low Value
+70,CUST0070,Saima Chaudhry,Female,56+,DHA Phase 1,Karachi,Yes,Low Value
+71,CUST0071,Imran Akhtar,Male,56+,North Nazimabad,Karachi,Yes,Mid Value
+72,CUST0072,Tariq Ansari,Male,36-45,Clifton,Karachi,Yes,Mid Value
+73,CUST0073,Faisal Rizvi,Male,26-35,Tariq Road,Karachi,Yes,Low Value
+74,CUST0074,Mariam Raza,Female,36-45,North Nazimabad,Karachi,Yes,High Value
+75,CUST0075,Lubna Khan,Female,36-45,Awami Markaz,Karachi,Yes,Mid Value
+76,CUST0076,Shazia Hashmi,Female,56+,Malir,Karachi,Yes,Mid Value
+77,CUST0077,Imran Hashmi,Male,18-25,North Nazimabad,Karachi,No,Mid Value
+78,CUST0078,Nadia Chaudhry,Female,56+,DHA Phase 1,Karachi,Yes,Mid Value
+79,CUST0079,Ali Hashmi,Male,46-55,DHA Phase 1,Karachi,Yes,Mid Value
+80,CUST0080,Mariam Qureshi,Female,36-45,North Nazimabad,Karachi,Yes,Mid Value
+81,CUST0081,Amna Ali,Female,18-25,North Nazimabad,Karachi,Yes,Mid Value
+82,CUST0082,Ali Ahmed,Male,26-35,Bahadurabad,Karachi,No,Mid Value
+83,CUST0083,Faisal Siddiqui,Male,56+,North Nazimabad,Karachi,Yes,Mid Value
+84,CUST0084,Kiran Malik,Female,56+,Awami Markaz,Karachi,Yes,Mid Value
+85,CUST0085,Naveed Khan,Male,46-55,Clifton,Karachi,No,Mid Value
+86,CUST0086,Ali Javed,Male,56+,Tariq Road,Karachi,No,Mid Value
+87,CUST0087,Mehwish Sheikh,Female,18-25,Awami Markaz,Karachi,Yes,Mid Value
+88,CUST0088,Zainab Akhtar,Female,36-45,PECHS,Karachi,Yes,Mid Value
+89,CUST0089,Salman Abbasi,Male,46-55,PECHS,Karachi,Yes,Mid Value
+90,CUST0090,Mehwish Raza,Female,46-55,North Nazimabad,Karachi,Yes,Mid Value
+91,CUST0091,Ali Baig,Male,26-35,North Nazimabad,Karachi,Yes,Mid Value
+92,CUST0092,Farhan Hussain,Male,46-55,DHA Phase 1,Karachi,Yes,Mid Value
+93,CUST0093,Amna Nawaz,Female,26-35,Tariq Road,Karachi,No,Mid Value
+94,CUST0094,Ali Ansari,Male,36-45,Tariq Road,Karachi,No,Low Value
+95,CUST0095,Noor Chaudhry,Female,18-25,Bahadurabad,Karachi,Yes,Mid Value
+96,CUST0096,Tariq Javed,Male,46-55,Gulshan-e-Iqbal,Karachi,Yes,Mid Value
+97,CUST0097,Saima Hussain,Female,56+,Gulshan-e-Iqbal,Karachi,Yes,Mid Value
+98,CUST0098,Sobia Sheikh,Female,26-35,Tariq Road,Karachi,No,Mid Value
+99,CUST0099,Kamran Qureshi,Male,46-55,Tariq Road,Karachi,No,High Value
+100,CUST0100,Sana Qureshi,Female,26-35,Clifton,Karachi,Yes,Low Value
+101,CUST0101,Kashif Siddiqui,Male,18-25,Clifton,Karachi,No,Low Value
+102,CUST0102,Farhan Sheikh,Male,46-55,Bahadurabad,Karachi,Yes,Mid Value
+103,CUST0103,Mariam Malik,Female,26-35,Bahadurabad,Karachi,Yes,Low Value
+104,CUST0104,Noor Ali,Female,56+,Awami Markaz,Karachi,Yes,High Value
+105,CUST0105,Zainab Ansari,Female,46-55,Nazimabad,Karachi,No,Mid Value
+106,CUST0106,Bushra Chaudhry,Female,46-55,Clifton,Karachi,No,Mid Value
+107,CUST0107,Rizwan Sheikh,Male,56+,DHA Phase 5,Karachi,No,Mid Value
+108,CUST0108,Bilal Ansari,Male,46-55,DHA Phase 1,Karachi,Yes,High Value
+109,CUST0109,Bushra Nawaz,Female,36-45,North Nazimabad,Karachi,Yes,Low Value
+110,CUST0110,Bushra Ali,Female,26-35,PECHS,Karachi,Yes,Mid Value
+111,CUST0111,Kashif Ansari,Male,26-35,PECHS,Karachi,Yes,High Value
+112,CUST0112,Bilal Mirza,Male,56+,Awami Markaz,Karachi,Yes,High Value
+113,CUST0113,Asim Mirza,Male,36-45,Tariq Road,Karachi,No,Low Value
+114,CUST0114,Bushra Ali,Female,18-25,Awami Markaz,Karachi,No,High Value
+115,CUST0115,Fatima Ali,Female,56+,DHA Phase 5,Karachi,No,Mid Value
+116,CUST0116,Lubna Ahmed,Female,46-55,DHA Phase 1,Karachi,Yes,Mid Value
+117,CUST0117,Naveed Hashmi,Male,46-55,PECHS,Karachi,Yes,Mid Value
+118,CUST0118,Mariam Hussain,Female,18-25,PECHS,Karachi,Yes,High Value
+119,CUST0119,Sara Rizvi,Female,18-25,Malir,Karachi,Yes,Mid Value
+120,CUST0120,Mariam Sheikh,Female,46-55,Sharafabad,Karachi,Yes,High Value
+121,CUST0121,Kamran Akhtar,Male,56+,Gulshan-e-Iqbal,Karachi,Yes,Mid Value
+122,CUST0122,Imran Raza,Male,36-45,DHA Phase 1,Karachi,Yes,Mid Value
+123,CUST0123,Rizwan Ansari,Male,26-35,Tariq Road,Karachi,No,Mid Value
+124,CUST0124,Zainab Ansari,Female,46-55,Nazimabad,Karachi,Yes,Mid Value
+125,CUST0125,Madiha Baig,Female,46-55,Sharafabad,Karachi,Yes,Low Value
+126,CUST0126,Adnan Qureshi,Male,46-55,Awami Markaz,Karachi,Yes,Mid Value
+127,CUST0127,Mariam Akhtar,Female,18-25,Clifton,Karachi,No,Low Value
+128,CUST0128,Hina Chaudhry,Female,46-55,Malir,Karachi,No,Mid Value
+129,CUST0129,Bushra Hussain,Female,56+,DHA Phase 5,Karachi,Yes,Mid Value
+130,CUST0130,Ayesha Hussain,Female,46-55,Tariq Road,Karachi,No,High Value
+131,CUST0131,Farhan Ahmed,Male,46-55,DHA Phase 1,Karachi,Yes,Mid Value
+132,CUST0132,Sana Akhtar,Female,18-25,North Nazimabad,Karachi,No,Mid Value
+133,CUST0133,Ali Butt,Male,36-45,Clifton,Karachi,No,High Value
+134,CUST0134,Zubair Raza,Male,36-45,Sharafabad,Karachi,No,Mid Value
+135,CUST0135,Faisal Mirza,Male,56+,DHA Phase 5,Karachi,Yes,Low Value
+136,CUST0136,Asim Malik,Male,36-45,Tariq Road,Karachi,Yes,High Value
+137,CUST0137,Tariq Abbasi,Male,36-45,Gulshan-e-Iqbal,Karachi,No,Mid Value
+138,CUST0138,Lubna Malik,Female,26-35,DHA Phase 1,Karachi,No,Mid Value
+139,CUST0139,Farhan Javed,Male,26-35,DHA Phase 1,Karachi,Yes,Mid Value
+140,CUST0140,Fatima Chaudhry,Female,56+,Clifton,Karachi,Yes,High Value
+141,CUST0141,Kiran Javed,Female,56+,Clifton,Karachi,Yes,Low Value
+142,CUST0142,Rabia Rizvi,Female,18-25,North Nazimabad,Karachi,No,Mid Value
+143,CUST0143,Lubna Mirza,Female,36-45,Tariq Road,Karachi,Yes,High Value
+144,CUST0144,Naveed Ahmed,Male,56+,Awami Markaz,Karachi,Yes,Mid Value
+145,CUST0145,Sobia Qureshi,Female,26-35,Awami Markaz,Karachi,No,High Value
+146,CUST0146,Tariq Chaudhry,Male,46-55,Bahadurabad,Karachi,Yes,High Value
+147,CUST0147,Mariam Hashmi,Female,26-35,DHA Phase 1,Karachi,No,Mid Value
+148,CUST0148,Nadia Baig,Female,36-45,North Nazimabad,Karachi,Yes,Low Value
+149,CUST0149,Usman Ansari,Male,56+,PECHS,Karachi,Yes,Mid Value
+150,CUST0150,Fatima Baig,Female,18-25,Malir,Karachi,No,High Value
+151,CUST0151,Lubna Rizvi,Female,36-45,PECHS,Karachi,Yes,Mid Value
+152,CUST0152,Rizwan Raza,Male,56+,Gulshan-e-Iqbal,Karachi,No,Low Value
+153,CUST0153,Sara Hashmi,Female,26-35,Nazimabad,Karachi,Yes,High Value
+154,CUST0154,Sana Sheikh,Female,46-55,DHA Phase 5,Karachi,Yes,Mid Value
+155,CUST0155,Saima Hashmi,Female,56+,Awami Markaz,Karachi,No,High Value
+156,CUST0156,Farhan Nawaz,Male,26-35,Sharafabad,Karachi,Yes,Mid Value
+157,CUST0157,Bushra Ansari,Female,18-25,Gulshan-e-Iqbal,Karachi,Yes,High Value
+158,CUST0158,Amna Qureshi,Female,46-55,Nazimabad,Karachi,No,Mid Value
+159,CUST0159,Muhammad Hussain,Male,26-35,DHA Phase 5,Karachi,Yes,Mid Value
+160,CUST0160,Naveed Qureshi,Male,36-45,DHA Phase 5,Karachi,Yes,Low Value
+161,CUST0161,Usman Raza,Male,26-35,Clifton,Karachi,Yes,Mid Value
+162,CUST0162,Waseem Ansari,Male,36-45,Awami Markaz,Karachi,Yes,High Value
+163,CUST0163,Usman Hashmi,Male,18-25,Malir,Karachi,Yes,Low Value
+164,CUST0164,Madiha Javed,Female,46-55,Nazimabad,Karachi,No,Mid Value
+165,CUST0165,Junaid Mirza,Male,56+,North Nazimabad,Karachi,Yes,Mid Value
+166,CUST0166,Uzma Sheikh,Female,56+,North Nazimabad,Karachi,Yes,High Value
+167,CUST0167,Mehwish Siddiqui,Female,26-35,Nazimabad,Karachi,Yes,Low Value
+168,CUST0168,Bushra Akhtar,Female,36-45,Awami Markaz,Karachi,No,High Value
+169,CUST0169,Salman Chaudhry,Male,36-45,DHA Phase 5,Karachi,Yes,Mid Value
+170,CUST0170,Sana Hussain,Female,36-45,Sharafabad,Karachi,Yes,Mid Value
+171,CUST0171,Zainab Ali,Female,18-25,Nazimabad,Karachi,No,Low Value
+172,CUST0172,Hina Raza,Female,46-55,Bahadurabad,Karachi,No,Mid Value
+173,CUST0173,Salman Abbasi,Male,36-45,PECHS,Karachi,No,High Value
+174,CUST0174,Kiran Sheikh,Female,46-55,Awami Markaz,Karachi,No,Mid Value
+175,CUST0175,Sobia Sheikh,Female,46-55,Gulshan-e-Iqbal,Karachi,Yes,Mid Value
+176,CUST0176,Salman Raza,Male,56+,Awami Markaz,Karachi,No,Low Value
+177,CUST0177,Fatima Malik,Female,56+,Clifton,Karachi,Yes,Mid Value
+178,CUST0178,Bilal Siddiqui,Male,56+,Awami Markaz,Karachi,Yes,High Value
+179,CUST0179,Ali Akhtar,Male,36-45,DHA Phase 5,Karachi,Yes,Low Value
+180,CUST0180,Waseem Mirza,Male,36-45,Tariq Road,Karachi,Yes,Low Value
+181,CUST0181,Bilal Nawaz,Male,56+,Bahadurabad,Karachi,Yes,Mid Value
+182,CUST0182,Noor Nawaz,Female,36-45,North Nazimabad,Karachi,No,Mid Value
+183,CUST0183,Waseem Hashmi,Male,36-45,Nazimabad,Karachi,No,Mid Value
+184,CUST0184,Ayesha Ansari,Female,56+,Sharafabad,Karachi,Yes,Mid Value
+185,CUST0185,Rabia Siddiqui,Female,36-45,Clifton,Karachi,Yes,Mid Value
+186,CUST0186,Uzma Malik,Female,36-45,DHA Phase 1,Karachi,No,Mid Value
+187,CUST0187,Zainab Rizvi,Female,18-25,Tariq Road,Karachi,Yes,Mid Value
+188,CUST0188,Zubair Javed,Male,46-55,Sharafabad,Karachi,Yes,Mid Value
+189,CUST0189,Adnan Khan,Male,26-35,Gulshan-e-Iqbal,Karachi,No,Mid Value
+190,CUST0190,Zainab Hashmi,Female,26-35,Nazimabad,Karachi,No,Low Value
+191,CUST0191,Adnan Mirza,Male,36-45,Tariq Road,Karachi,Yes,Mid Value
+192,CUST0192,Junaid Sheikh,Male,46-55,Malir,Karachi,Yes,Mid Value
+193,CUST0193,Faisal Sheikh,Male,26-35,DHA Phase 1,Karachi,No,Mid Value
+194,CUST0194,Ali Malik,Male,46-55,PECHS,Karachi,No,Mid Value
+195,CUST0195,Mariam Siddiqui,Female,18-25,North Nazimabad,Karachi,No,Mid Value
+196,CUST0196,Amna Javed,Female,36-45,Bahadurabad,Karachi,Yes,High Value
+197,CUST0197,Bushra Ahmed,Female,36-45,Bahadurabad,Karachi,No,High Value
+198,CUST0198,Rizwan Nawaz,Male,36-45,Malir,Karachi,Yes,High Value
+199,CUST0199,Zubair Nawaz,Male,46-55,North Nazimabad,Karachi,Yes,Mid Value
+200,CUST0200,Zubair Ali,Male,56+,Malir,Karachi,Yes,High Value
+201,CUST0201,Bushra Akhtar,Female,56+,Malir,Karachi,Yes,Mid Value
+202,CUST0202,Shazia Hashmi,Female,56+,Gulshan-e-Iqbal,Karachi,No,Mid Value
+203,CUST0203,Zainab Hussain,Female,46-55,Nazimabad,Karachi,Yes,Low Value
+204,CUST0204,Zubair Ali,Male,56+,Awami Markaz,Karachi,Yes,High Value
+205,CUST0205,Hina Nawaz,Female,18-25,Tariq Road,Karachi,No,Mid Value
+206,CUST0206,Hina Akhtar,Female,56+,Nazimabad,Karachi,Yes,Mid Value
+207,CUST0207,Waseem Mirza,Male,26-35,DHA Phase 1,Karachi,Yes,Mid Value
+208,CUST0208,Usman Siddiqui,Male,36-45,Nazimabad,Karachi,No,Mid Value
+209,CUST0209,Zubair Nawaz,Male,56+,DHA Phase 1,Karachi,Yes,High Value
+210,CUST0210,Rizwan Malik,Male,46-55,Tariq Road,Karachi,Yes,Mid Value
+211,CUST0211,Asim Nawaz,Male,56+,Clifton,Karachi,No,Low Value
+212,CUST0212,Tariq Butt,Male,36-45,DHA Phase 5,Karachi,Yes,Mid Value
+213,CUST0213,Shazia Akhtar,Female,36-45,Malir,Karachi,No,Low Value
+214,CUST0214,Imran Ahmed,Male,46-55,PECHS,Karachi,No,Mid Value
+215,CUST0215,Tariq Ali,Male,26-35,DHA Phase 1,Karachi,Yes,High Value
+216,CUST0216,Zainab Ansari,Female,36-45,North Nazimabad,Karachi,Yes,Mid Value
+217,CUST0217,Madiha Abbasi,Female,36-45,DHA Phase 5,Karachi,Yes,Mid Value
+218,CUST0218,Zubair Sheikh,Male,56+,Tariq Road,Karachi,Yes,Low Value
+219,CUST0219,Tariq Butt,Male,26-35,Tariq Road,Karachi,No,Low Value
+220,CUST0220,Ali Khan,Male,26-35,Clifton,Karachi,Yes,High Value
+221,CUST0221,Tariq Ansari,Male,18-25,Clifton,Karachi,Yes,Mid Value
+222,CUST0222,Zainab Sheikh,Female,56+,North Nazimabad,Karachi,No,High Value
+223,CUST0223,Usman Mirza,Male,18-25,Sharafabad,Karachi,Yes,High Value
+224,CUST0224,Nadia Ali,Female,36-45,Malir,Karachi,No,High Value
+225,CUST0225,Adnan Butt,Male,56+,Bahadurabad,Karachi,Yes,High Value
+226,CUST0226,Waseem Ali,Male,26-35,Gulshan-e-Iqbal,Karachi,Yes,Mid Value
+227,CUST0227,Waseem Raza,Male,56+,Gulshan-e-Iqbal,Karachi,No,High Value
+228,CUST0228,Nadia Siddiqui,Female,56+,Nazimabad,Karachi,Yes,Mid Value
+229,CUST0229,Muhammad Qureshi,Male,36-45,Bahadurabad,Karachi,Yes,Mid Value
+230,CUST0230,Amna Ahmed,Female,26-35,PECHS,Karachi,Yes,Low Value
+231,CUST0231,Amna Sheikh,Female,36-45,Gulshan-e-Iqbal,Karachi,Yes,Mid Value
+232,CUST0232,Nadia Butt,Female,46-55,Tariq Road,Karachi,Yes,Low Value
+233,CUST0233,Salman Ali,Male,56+,Sharafabad,Karachi,Yes,Low Value
+234,CUST0234,Ali Hussain,Male,36-45,PECHS,Karachi,No,High Value
+235,CUST0235,Nadia Chaudhry,Female,46-55,Gulshan-e-Iqbal,Karachi,No,High Value
+236,CUST0236,Amna Ahmed,Female,56+,Nazimabad,Karachi,No,High Value
+237,CUST0237,Ahmed Siddiqui,Male,56+,Awami Markaz,Karachi,Yes,High Value
+238,CUST0238,Faisal Abbasi,Male,36-45,Gulshan-e-Iqbal,Karachi,No,Mid Value
+239,CUST0239,Asim Abbasi,Male,46-55,Gulshan-e-Iqbal,Karachi,No,Mid Value
+240,CUST0240,Shazia Hussain,Female,26-35,PECHS,Karachi,Yes,Mid Value
+241,CUST0241,Farhan Akhtar,Male,46-55,Sharafabad,Karachi,Yes,High Value
+242,CUST0242,Rabia Nawaz,Female,56+,Clifton,Karachi,Yes,Mid Value
+243,CUST0243,Ali Chaudhry,Male,56+,DHA Phase 1,Karachi,No,Mid Value
+244,CUST0244,Kiran Ali,Female,46-55,Malir,Karachi,Yes,Mid Value
+245,CUST0245,Waseem Akhtar,Male,18-25,DHA Phase 5,Karachi,Yes,High Value
+246,CUST0246,Fatima Abbasi,Female,46-55,Malir,Karachi,No,High Value
+247,CUST0247,Rizwan Ali,Male,36-45,Nazimabad,Karachi,No,Low Value
+248,CUST0248,Uzma Javed,Female,26-35,Nazimabad,Karachi,Yes,High Value
+249,CUST0249,Madiha Abbasi,Female,46-55,DHA Phase 1,Karachi,Yes,Mid Value
+250,CUST0250,Madiha Ahmed,Female,46-55,Nazimabad,Karachi,Yes,High Value
+251,CUST0251,Zubair Ansari,Male,46-55,Gulshan-e-Iqbal,Karachi,Yes,High Value
+252,CUST0252,Kashif Baig,Male,56+,DHA Phase 1,Karachi,Yes,High Value
+253,CUST0253,Naveed Javed,Male,26-35,DHA Phase 1,Karachi,No,Mid Value
+254,CUST0254,Ahmed Ali,Male,56+,Bahadurabad,Karachi,No,Mid Value
+255,CUST0255,Naveed Hashmi,Male,56+,Awami Markaz,Karachi,No,Mid Value
+256,CUST0256,Sara Butt,Female,56+,DHA Phase 5,Karachi,Yes,High Value
+257,CUST0257,Muhammad Malik,Male,36-45,North Nazimabad,Karachi,Yes,Mid Value
+258,CUST0258,Mehwish Siddiqui,Female,56+,Gulshan-e-Iqbal,Karachi,Yes,Mid Value
+259,CUST0259,Waseem Akhtar,Male,18-25,Malir,Karachi,Yes,Mid Value
+260,CUST0260,Imran Chaudhry,Male,26-35,DHA Phase 5,Karachi,Yes,Low Value
+261,CUST0261,Mehwish Hashmi,Female,26-35,DHA Phase 5,Karachi,Yes,High Value
+262,CUST0262,Farhan Akhtar,Male,46-55,North Nazimabad,Karachi,Yes,Mid Value
+263,CUST0263,Adnan Akhtar,Male,26-35,North Nazimabad,Karachi,Yes,Mid Value
+264,CUST0264,Tariq Butt,Male,56+,Awami Markaz,Karachi,No,Mid Value
+265,CUST0265,Hassan Hashmi,Male,26-35,DHA Phase 1,Karachi,Yes,Mid Value
+266,CUST0266,Adnan Ahmed,Male,46-55,Awami Markaz,Karachi,No,Mid Value
+267,CUST0267,Zainab Rizvi,Female,46-55,Malir,Karachi,No,Mid Value
+268,CUST0268,Usman Sheikh,Male,36-45,Sharafabad,Karachi,Yes,Low Value
+269,CUST0269,Rizwan Akhtar,Male,46-55,Sharafabad,Karachi,Yes,Low Value
+270,CUST0270,Zubair Butt,Male,46-55,Malir,Karachi,Yes,Mid Value
+271,CUST0271,Mehwish Hussain,Female,36-45,DHA Phase 1,Karachi,No,Mid Value
+272,CUST0272,Madiha Akhtar,Female,46-55,Malir,Karachi,Yes,Mid Value
+273,CUST0273,Waseem Hussain,Male,18-25,PECHS,Karachi,No,Low Value
+274,CUST0274,Rizwan Butt,Male,56+,Clifton,Karachi,No,Low Value
+275,CUST0275,Naveed Butt,Male,46-55,DHA Phase 1,Karachi,Yes,Mid Value
+276,CUST0276,Muhammad Javed,Male,18-25,Tariq Road,Karachi,Yes,Mid Value
+277,CUST0277,Uzma Siddiqui,Female,56+,Sharafabad,Karachi,No,Mid Value
+278,CUST0278,Ayesha Siddiqui,Female,26-35,Malir,Karachi,No,Mid Value
+279,CUST0279,Madiha Rizvi,Female,26-35,Gulshan-e-Iqbal,Karachi,Yes,Mid Value
+280,CUST0280,Amna Nawaz,Female,26-35,North Nazimabad,Karachi,No,Mid Value
+281,CUST0281,Sobia Mirza,Female,56+,Clifton,Karachi,Yes,Low Value
+282,CUST0282,Kiran Raza,Female,26-35,Tariq Road,Karachi,No,Mid Value
+283,CUST0283,Shazia Abbasi,Female,36-45,DHA Phase 1,Karachi,No,High Value
+284,CUST0284,Waseem Chaudhry,Male,26-35,PECHS,Karachi,Yes,Low Value
+285,CUST0285,Saima Baig,Female,18-25,DHA Phase 1,Karachi,Yes,Low Value
+286,CUST0286,Junaid Ansari,Male,26-35,PECHS,Karachi,Yes,Low Value
+287,CUST0287,Noor Sheikh,Female,26-35,PECHS,Karachi,Yes,Low Value
+288,CUST0288,Noor Qureshi,Female,36-45,Clifton,Karachi,Yes,Low Value
+289,CUST0289,Kashif Ahmed,Male,36-45,DHA Phase 1,Karachi,Yes,Mid Value
+290,CUST0290,Nadia Mirza,Female,18-25,Bahadurabad,Karachi,Yes,Mid Value
+291,CUST0291,Bushra Raza,Female,46-55,Malir,Karachi,Yes,Mid Value
+292,CUST0292,Rabia Sheikh,Female,26-35,Gulshan-e-Iqbal,Karachi,No,Low Value
+293,CUST0293,Ahmed Hussain,Male,46-55,Clifton,Karachi,No,High Value
+294,CUST0294,Uzma Akhtar,Female,18-25,Gulshan-e-Iqbal,Karachi,Yes,High Value
+295,CUST0295,Farhan Hussain,Male,18-25,DHA Phase 5,Karachi,Yes,Mid Value
+296,CUST0296,Amna Hussain,Female,46-55,Clifton,Karachi,Yes,Mid Value
+297,CUST0297,Sobia Ahmed,Female,18-25,PECHS,Karachi,Yes,High Value
+298,CUST0298,Madiha Mirza,Female,18-25,Tariq Road,Karachi,No,High Value
+299,CUST0299,Faisal Siddiqui,Male,26-35,North Nazimabad,Karachi,Yes,Mid Value
+300,CUST0300,Saima Qureshi,Female,56+,DHA Phase 5,Karachi,No,High Value
+301,CUST0301,Madiha Abbasi,Female,46-55,Nazimabad,Karachi,No,Mid Value
+302,CUST0302,Naveed Raza,Male,26-35,DHA Phase 1,Karachi,Yes,Mid Value
+303,CUST0303,Kamran Javed,Male,18-25,North Nazimabad,Karachi,Yes,Mid Value
+304,CUST0304,Hina Akhtar,Female,46-55,Sharafabad,Karachi,No,Mid Value
+305,CUST0305,Sara Khan,Female,26-35,Sharafabad,Karachi,No,High Value
+306,CUST0306,Muhammad Hashmi,Male,56+,Gulshan-e-Iqbal,Karachi,Yes,Mid Value
+307,CUST0307,Ayesha Mirza,Female,26-35,Sharafabad,Karachi,Yes,Mid Value
+308,CUST0308,Bushra Rizvi,Female,18-25,Sharafabad,Karachi,No,Mid Value
+309,CUST0309,Sana Malik,Female,36-45,Malir,Karachi,No,High Value
+310,CUST0310,Ahmed Khan,Male,46-55,Clifton,Karachi,No,Mid Value
+311,CUST0311,Sobia Ansari,Female,36-45,North Nazimabad,Karachi,Yes,Low Value
+312,CUST0312,Muhammad Hashmi,Male,18-25,Awami Markaz,Karachi,Yes,Mid Value
+313,CUST0313,Rizwan Ahmed,Male,56+,North Nazimabad,Karachi,No,High Value
+314,CUST0314,Adnan Chaudhry,Male,46-55,DHA Phase 5,Karachi,Yes,Low Value
+315,CUST0315,Sobia Javed,Female,46-55,Gulshan-e-Iqbal,Karachi,Yes,Low Value
+316,CUST0316,Hina Akhtar,Female,36-45,DHA Phase 5,Karachi,Yes,Mid Value
+317,CUST0317,Salman Raza,Male,18-25,North Nazimabad,Karachi,No,High Value
+318,CUST0318,Uzma Hashmi,Female,36-45,DHA Phase 1,Karachi,No,Mid Value
+319,CUST0319,Sobia Ansari,Female,56+,Clifton,Karachi,Yes,Mid Value
+320,CUST0320,Uzma Raza,Female,26-35,Malir,Karachi,Yes,Low Value
+321,CUST0321,Zubair Ali,Male,36-45,North Nazimabad,Karachi,No,High Value
+322,CUST0322,Muhammad Baig,Male,56+,Sharafabad,Karachi,Yes,Mid Value
+323,CUST0323,Naveed Raza,Male,46-55,DHA Phase 5,Karachi,Yes,High Value
+324,CUST0324,Kamran Qureshi,Male,18-25,Tariq Road,Karachi,No,High Value
+325,CUST0325,Adnan Ansari,Male,36-45,Malir,Karachi,Yes,Mid Value
+326,CUST0326,Sara Baig,Female,46-55,Gulshan-e-Iqbal,Karachi,Yes,Low Value
+327,CUST0327,Mariam Qureshi,Female,36-45,Gulshan-e-Iqbal,Karachi,No,High Value
+328,CUST0328,Usman Khan,Male,46-55,Clifton,Karachi,Yes,Mid Value
+329,CUST0329,Kamran Hussain,Male,36-45,DHA Phase 5,Karachi,Yes,Low Value
+330,CUST0330,Amna Butt,Female,56+,Tariq Road,Karachi,Yes,Low Value
+331,CUST0331,Nadia Siddiqui,Female,46-55,Tariq Road,Karachi,No,High Value
+332,CUST0332,Junaid Ahmed,Male,56+,Nazimabad,Karachi,Yes,Mid Value
+333,CUST0333,Faisal Ali,Male,26-35,Tariq Road,Karachi,No,Low Value
+334,CUST0334,Kiran Ahmed,Female,56+,Awami Markaz,Karachi,No,Mid Value
+335,CUST0335,Fatima Khan,Female,46-55,Malir,Karachi,Yes,Mid Value
+336,CUST0336,Saima Mirza,Female,46-55,Bahadurabad,Karachi,Yes,High Value
+337,CUST0337,Junaid Siddiqui,Male,26-35,DHA Phase 5,Karachi,Yes,Mid Value
+338,CUST0338,Amna Rizvi,Female,36-45,Nazimabad,Karachi,No,Low Value
+339,CUST0339,Faisal Mirza,Male,18-25,PECHS,Karachi,Yes,Low Value
+340,CUST0340,Shazia Raza,Female,18-25,North Nazimabad,Karachi,Yes,Mid Value
+341,CUST0341,Uzma Hussain,Female,18-25,Awami Markaz,Karachi,Yes,High Value
+342,CUST0342,Naveed Butt,Male,18-25,Clifton,Karachi,No,Mid Value
+343,CUST0343,Bilal Hussain,Male,26-35,Bahadurabad,Karachi,No,Mid Value
+344,CUST0344,Zainab Mirza,Female,46-55,DHA Phase 1,Karachi,No,Mid Value
+345,CUST0345,Shazia Siddiqui,Female,56+,Tariq Road,Karachi,No,Mid Value
+346,CUST0346,Ayesha Sheikh,Female,26-35,Sharafabad,Karachi,No,Mid Value
+347,CUST0347,Mariam Khan,Female,26-35,PECHS,Karachi,Yes,High Value
+348,CUST0348,Saima Rizvi,Female,26-35,Sharafabad,Karachi,Yes,Mid Value
+349,CUST0349,Sobia Ali,Female,26-35,Nazimabad,Karachi,No,High Value
+350,CUST0350,Adnan Hussain,Male,18-25,Gulshan-e-Iqbal,Karachi,Yes,High Value
+351,CUST0351,Kiran Baig,Female,26-35,Nazimabad,Karachi,Yes,High Value
+352,CUST0352,Saima Raza,Female,36-45,Malir,Karachi,Yes,Mid Value
+353,CUST0353,Saima Ali,Female,56+,Awami Markaz,Karachi,Yes,Mid Value
+354,CUST0354,Uzma Rizvi,Female,56+,Nazimabad,Karachi,No,Mid Value
+355,CUST0355,Adnan Malik,Male,26-35,DHA Phase 1,Karachi,Yes,Mid Value
+356,CUST0356,Ali Malik,Male,26-35,Sharafabad,Karachi,Yes,Mid Value
+357,CUST0357,Waseem Baig,Male,56+,DHA Phase 5,Karachi,Yes,High Value
+358,CUST0358,Usman Mirza,Male,36-45,Bahadurabad,Karachi,Yes,Mid Value
+359,CUST0359,Mariam Hashmi,Female,56+,PECHS,Karachi,Yes,Low Value
+360,CUST0360,Farhan Hussain,Male,36-45,DHA Phase 1,Karachi,No,Low Value
+361,CUST0361,Lubna Ansari,Female,36-45,Gulshan-e-Iqbal,Karachi,Yes,Mid Value
+362,CUST0362,Naveed Qureshi,Male,46-55,Awami Markaz,Karachi,No,Mid Value
+363,CUST0363,Rabia Chaudhry,Female,56+,Clifton,Karachi,No,Mid Value
+364,CUST0364,Hina Mirza,Female,26-35,DHA Phase 5,Karachi,Yes,High Value
+365,CUST0365,Asim Nawaz,Male,46-55,North Nazimabad,Karachi,No,Mid Value
+366,CUST0366,Saima Ahmed,Female,56+,Gulshan-e-Iqbal,Karachi,Yes,Mid Value
+367,CUST0367,Waseem Malik,Male,56+,PECHS,Karachi,Yes,Mid Value
+368,CUST0368,Sana Khan,Female,26-35,Nazimabad,Karachi,No,Mid Value
+369,CUST0369,Asim Abbasi,Male,46-55,Sharafabad,Karachi,Yes,Mid Value
+370,CUST0370,Fatima Butt,Female,36-45,Nazimabad,Karachi,Yes,Mid Value
+371,CUST0371,Waseem Mirza,Male,46-55,Gulshan-e-Iqbal,Karachi,Yes,Mid Value
+372,CUST0372,Noor Sheikh,Female,56+,North Nazimabad,Karachi,Yes,Mid Value
+373,CUST0373,Ayesha Sheikh,Female,36-45,Bahadurabad,Karachi,No,Mid Value
+374,CUST0374,Junaid Malik,Male,26-35,Malir,Karachi,Yes,Low Value
+375,CUST0375,Adnan Malik,Male,56+,DHA Phase 1,Karachi,Yes,High Value
+376,CUST0376,Asim Javed,Male,36-45,Sharafabad,Karachi,Yes,High Value
+377,CUST0377,Zainab Javed,Female,46-55,Nazimabad,Karachi,Yes,Mid Value
+378,CUST0378,Asim Sheikh,Male,56+,Clifton,Karachi,No,Mid Value
+379,CUST0379,Mehwish Rizvi,Female,36-45,Awami Markaz,Karachi,Yes,Mid Value
+380,CUST0380,Bushra Nawaz,Female,56+,DHA Phase 1,Karachi,No,Mid Value
+381,CUST0381,Zubair Sheikh,Male,36-45,DHA Phase 5,Karachi,Yes,Mid Value
+382,CUST0382,Junaid Rizvi,Male,56+,Sharafabad,Karachi,Yes,Mid Value
+383,CUST0383,Farhan Raza,Male,56+,Tariq Road,Karachi,Yes,Mid Value
+384,CUST0384,Hina Malik,Female,46-55,Gulshan-e-Iqbal,Karachi,Yes,Mid Value
+385,CUST0385,Farhan Siddiqui,Male,36-45,DHA Phase 5,Karachi,No,Low Value
+386,CUST0386,Uzma Butt,Female,56+,Sharafabad,Karachi,Yes,High Value
+387,CUST0387,Naveed Khan,Male,36-45,DHA Phase 5,Karachi,Yes,Low Value
+388,CUST0388,Nadia Chaudhry,Female,56+,Awami Markaz,Karachi,Yes,High Value
+389,CUST0389,Imran Raza,Male,46-55,Gulshan-e-Iqbal,Karachi,No,High Value
+390,CUST0390,Salman Sheikh,Male,56+,Tariq Road,Karachi,Yes,Low Value
+391,CUST0391,Amna Abbasi,Female,46-55,Nazimabad,Karachi,Yes,Mid Value
+392,CUST0392,Mehwish Hashmi,Female,56+,DHA Phase 1,Karachi,Yes,Mid Value
+393,CUST0393,Naveed Abbasi,Male,26-35,Malir,Karachi,Yes,Mid Value
+394,CUST0394,Sara Javed,Female,46-55,Clifton,Karachi,Yes,Mid Value
+395,CUST0395,Imran Siddiqui,Male,26-35,Tariq Road,Karachi,No,Mid Value
+396,CUST0396,Sobia Rizvi,Female,26-35,North Nazimabad,Karachi,No,Mid Value
+397,CUST0397,Shazia Chaudhry,Female,56+,Nazimabad,Karachi,No,Mid Value
+398,CUST0398,Kiran Chaudhry,Female,36-45,North Nazimabad,Karachi,No,Mid Value
+399,CUST0399,Asim Abbasi,Male,46-55,Nazimabad,Karachi,Yes,Mid Value
+400,CUST0400,Farhan Baig,Male,36-45,Gulshan-e-Iqbal,Karachi,No,High Value
+401,CUST0401,Mariam Ahmed,Female,18-25,Bahadurabad,Karachi,Yes,High Value
+402,CUST0402,Asim Chaudhry,Male,36-45,Bahadurabad,Karachi,No,Mid Value
+403,CUST0403,Nadia Baig,Female,56+,Nazimabad,Karachi,Yes,Low Value
+404,CUST0404,Nadia Ahmed,Female,56+,Sharafabad,Karachi,Yes,Mid Value
+405,CUST0405,Hassan Khan,Male,46-55,DHA Phase 5,Karachi,No,Low Value
+406,CUST0406,Junaid Chaudhry,Male,18-25,Bahadurabad,Karachi,Yes,Mid Value
+407,CUST0407,Farhan Ali,Male,36-45,DHA Phase 5,Karachi,Yes,Mid Value
+408,CUST0408,Kiran Mirza,Female,36-45,DHA Phase 1,Karachi,Yes,Mid Value
+409,CUST0409,Rizwan Malik,Male,36-45,North Nazimabad,Karachi,Yes,Mid Value
+410,CUST0410,Rabia Ali,Female,26-35,Nazimabad,Karachi,Yes,High Value
+411,CUST0411,Mariam Siddiqui,Female,26-35,DHA Phase 5,Karachi,No,Low Value
+412,CUST0412,Fatima Mirza,Female,46-55,DHA Phase 5,Karachi,Yes,High Value
+413,CUST0413,Sara Ahmed,Female,46-55,DHA Phase 5,Karachi,Yes,Low Value
+414,CUST0414,Mehwish Ali,Female,18-25,Malir,Karachi,Yes,Mid Value
+415,CUST0415,Lubna Hashmi,Female,46-55,Gulshan-e-Iqbal,Karachi,Yes,Mid Value
+416,CUST0416,Naveed Ali,Male,26-35,Bahadurabad,Karachi,Yes,Mid Value
+417,CUST0417,Madiha Mirza,Female,56+,PECHS,Karachi,Yes,Low Value
+418,CUST0418,Zainab Raza,Female,56+,Malir,Karachi,Yes,Low Value
+419,CUST0419,Zainab Akhtar,Female,26-35,DHA Phase 5,Karachi,Yes,Mid Value
+420,CUST0420,Tariq Hashmi,Male,26-35,Tariq Road,Karachi,Yes,Mid Value
+421,CUST0421,Sana Chaudhry,Female,56+,Awami Markaz,Karachi,No,Low Value
+422,CUST0422,Hassan Khan,Male,26-35,Tariq Road,Karachi,Yes,Low Value
+423,CUST0423,Madiha Akhtar,Female,26-35,Tariq Road,Karachi,Yes,Mid Value
+424,CUST0424,Sana Khan,Female,36-45,Gulshan-e-Iqbal,Karachi,Yes,Low Value
+425,CUST0425,Lubna Ali,Female,46-55,North Nazimabad,Karachi,Yes,Low Value
+426,CUST0426,Lubna Malik,Female,26-35,Gulshan-e-Iqbal,Karachi,No,Mid Value
+427,CUST0427,Faisal Akhtar,Male,18-25,Bahadurabad,Karachi,Yes,Mid Value
+428,CUST0428,Kiran Rizvi,Female,26-35,DHA Phase 1,Karachi,Yes,Low Value
+429,CUST0429,Sobia Hashmi,Female,36-45,Tariq Road,Karachi,No,Mid Value
+430,CUST0430,Sana Akhtar,Female,18-25,PECHS,Karachi,No,High Value
+431,CUST0431,Adnan Ali,Male,36-45,North Nazimabad,Karachi,Yes,Mid Value
+432,CUST0432,Fatima Abbasi,Female,36-45,DHA Phase 5,Karachi,No,Mid Value
+433,CUST0433,Asim Abbasi,Male,46-55,Awami Markaz,Karachi,Yes,Mid Value
+434,CUST0434,Salman Khan,Male,46-55,DHA Phase 5,Karachi,Yes,High Value
+435,CUST0435,Adnan Mirza,Male,26-35,Nazimabad,Karachi,Yes,Mid Value
+436,CUST0436,Ayesha Siddiqui,Female,26-35,Tariq Road,Karachi,Yes,High Value
+437,CUST0437,Kiran Chaudhry,Female,18-25,Tariq Road,Karachi,No,High Value
+438,CUST0438,Adnan Ali,Male,46-55,Awami Markaz,Karachi,No,Mid Value
+439,CUST0439,Faisal Mirza,Male,36-45,Clifton,Karachi,Yes,Low Value
+440,CUST0440,Amna Ansari,Female,26-35,Nazimabad,Karachi,Yes,Low Value
+441,CUST0441,Bilal Chaudhry,Male,36-45,North Nazimabad,Karachi,No,Low Value
+442,CUST0442,Rabia Chaudhry,Female,46-55,Clifton,Karachi,Yes,Mid Value
+443,CUST0443,Tariq Nawaz,Male,26-35,Bahadurabad,Karachi,Yes,Mid Value
+444,CUST0444,Waseem Rizvi,Male,18-25,Malir,Karachi,Yes,Mid Value
+445,CUST0445,Adnan Chaudhry,Male,56+,Malir,Karachi,Yes,High Value
+446,CUST0446,Sana Siddiqui,Female,18-25,Nazimabad,Karachi,Yes,Mid Value
+447,CUST0447,Adnan Abbasi,Male,56+,PECHS,Karachi,Yes,Mid Value
+448,CUST0448,Ali Qureshi,Male,46-55,PECHS,Karachi,Yes,High Value
+449,CUST0449,Muhammad Chaudhry,Male,26-35,Bahadurabad,Karachi,No,Mid Value
+450,CUST0450,Noor Khan,Female,56+,Sharafabad,Karachi,Yes,Mid Value
+451,CUST0451,Bilal Baig,Male,46-55,Clifton,Karachi,No,Low Value
+452,CUST0452,Tariq Butt,Male,46-55,Sharafabad,Karachi,Yes,High Value
+453,CUST0453,Shazia Siddiqui,Female,26-35,Sharafabad,Karachi,No,Mid Value
+454,CUST0454,Adnan Abbasi,Male,46-55,North Nazimabad,Karachi,No,Mid Value
+455,CUST0455,Shazia Baig,Female,18-25,DHA Phase 1,Karachi,Yes,Low Value
+456,CUST0456,Ayesha Butt,Female,36-45,Malir,Karachi,Yes,Mid Value
+457,CUST0457,Faisal Ansari,Male,46-55,Clifton,Karachi,No,Mid Value
+458,CUST0458,Kiran Malik,Female,26-35,DHA Phase 1,Karachi,No,High Value
+459,CUST0459,Lubna Khan,Female,56+,Tariq Road,Karachi,No,Mid Value
+460,CUST0460,Farhan Raza,Male,26-35,Clifton,Karachi,Yes,Mid Value
+461,CUST0461,Faisal Nawaz,Male,18-25,DHA Phase 5,Karachi,Yes,Mid Value
+462,CUST0462,Mehwish Qureshi,Female,36-45,DHA Phase 1,Karachi,Yes,Mid Value
+463,CUST0463,Usman Javed,Male,26-35,Tariq Road,Karachi,Yes,Mid Value
+464,CUST0464,Waseem Rizvi,Male,18-25,Awami Markaz,Karachi,Yes,Mid Value
+465,CUST0465,Bilal Hashmi,Male,46-55,PECHS,Karachi,No,Low Value
+466,CUST0466,Sobia Javed,Female,36-45,DHA Phase 1,Karachi,Yes,Mid Value
+467,CUST0467,Ahmed Javed,Male,46-55,Sharafabad,Karachi,No,High Value
+468,CUST0468,Mehwish Ansari,Female,46-55,PECHS,Karachi,Yes,High Value
+469,CUST0469,Zainab Ansari,Female,36-45,Gulshan-e-Iqbal,Karachi,No,Mid Value
+470,CUST0470,Bushra Khan,Female,26-35,Clifton,Karachi,Yes,Mid Value
+471,CUST0471,Sana Khan,Female,36-45,Bahadurabad,Karachi,Yes,High Value
+472,CUST0472,Noor Rizvi,Female,46-55,Gulshan-e-Iqbal,Karachi,Yes,Mid Value
+473,CUST0473,Bilal Chaudhry,Male,18-25,Nazimabad,Karachi,Yes,Mid Value
+474,CUST0474,Sana Ali,Female,26-35,Gulshan-e-Iqbal,Karachi,No,High Value
+475,CUST0475,Kashif Ali,Male,56+,Gulshan-e-Iqbal,Karachi,No,High Value
+476,CUST0476,Salman Malik,Male,36-45,Awami Markaz,Karachi,Yes,Mid Value
+477,CUST0477,Rabia Qureshi,Female,56+,Sharafabad,Karachi,No,Low Value
+478,CUST0478,Sara Ansari,Female,18-25,Nazimabad,Karachi,Yes,High Value
+479,CUST0479,Waseem Khan,Male,18-25,Sharafabad,Karachi,Yes,Mid Value
+480,CUST0480,Ahmed Qureshi,Male,56+,DHA Phase 1,Karachi,Yes,Mid Value
+481,CUST0481,Tariq Rizvi,Male,46-55,North Nazimabad,Karachi,No,Low Value
+482,CUST0482,Nadia Abbasi,Female,36-45,Sharafabad,Karachi,Yes,Mid Value
+483,CUST0483,Bushra Chaudhry,Female,26-35,Clifton,Karachi,Yes,Mid Value
+484,CUST0484,Ali Abbasi,Male,36-45,Malir,Karachi,No,High Value
+485,CUST0485,Adnan Akhtar,Male,46-55,Sharafabad,Karachi,Yes,Mid Value
+486,CUST0486,Zainab Rizvi,Female,18-25,Tariq Road,Karachi,No,Low Value
+487,CUST0487,Hassan Chaudhry,Male,26-35,DHA Phase 1,Karachi,Yes,Low Value
+488,CUST0488,Salman Ali,Male,36-45,PECHS,Karachi,No,High Value
+489,CUST0489,Mariam Ali,Female,36-45,Nazimabad,Karachi,No,Mid Value
+490,CUST0490,Amna Akhtar,Female,18-25,North Nazimabad,Karachi,Yes,Low Value
+491,CUST0491,Salman Siddiqui,Male,46-55,DHA Phase 1,Karachi,Yes,High Value
+492,CUST0492,Tariq Raza,Male,36-45,Gulshan-e-Iqbal,Karachi,No,High Value
+493,CUST0493,Lubna Nawaz,Female,18-25,North Nazimabad,Karachi,Yes,High Value
+494,CUST0494,Rizwan Nawaz,Male,56+,PECHS,Karachi,Yes,Mid Value
+495,CUST0495,Sobia Ahmed,Female,46-55,Tariq Road,Karachi,Yes,High Value
+496,CUST0496,Sara Mirza,Female,46-55,Clifton,Karachi,Yes,Low Value
+497,CUST0497,Bushra Hussain,Female,56+,Clifton,Karachi,Yes,Low Value
+498,CUST0498,Rabia Hashmi,Female,46-55,Tariq Road,Karachi,Yes,Mid Value
+499,CUST0499,Ali Mirza,Male,46-55,Tariq Road,Karachi,No,Mid Value
+500,CUST0500,Bilal Qureshi,Male,18-25,DHA Phase 5,Karachi,Yes,High Value
