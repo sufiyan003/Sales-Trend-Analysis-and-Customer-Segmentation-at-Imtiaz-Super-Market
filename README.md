@@ -122,7 +122,7 @@ This project delivers a **production-grade data pipeline** that transforms raw r
 
 ### 🔷 Page 1 — Sales Overview
 
-![Sales Overview Dashboard](https://raw.githubusercontent.com/sufiyan003/Sales-Trend-Analysis-and-Customer-Segmentation-at-Imtiaz-Super-Market/refs/heads/main/dashboard/Page%201.jpg)
+![Sales Overview Dashboard](https://raw.githubusercontent.com/sufiyan003/Sales-Trend-Analysis-and-Customer-Segmentation-at-Imtiaz-Super-Market/refs/heads/main/Dashboard/Page%201.jpg)
 
 **Visuals included:**
 - 📦 KPI Cards — Total Sales (PKR 19.04M) | Profit (PKR 3.13M) | Orders (3,861) | Customers (500)
@@ -135,7 +135,7 @@ This project delivers a **production-grade data pipeline** that transforms raw r
 
 ### 🔷 Page 2 — Customer Segments
 
-![Customer Segments Dashboard](https://raw.githubusercontent.com/sufiyan003/Sales-Trend-Analysis-and-Customer-Segmentation-at-Imtiaz-Super-Market/refs/heads/main/dashboard/Page%202.jpg)
+![Customer Segments Dashboard](https://raw.githubusercontent.com/sufiyan003/Sales-Trend-Analysis-and-Customer-Segmentation-at-Imtiaz-Super-Market/refs/heads/main/Dashboard/Page%202.jpg)
 
 **Visuals included:**
 - 🍩 Customer Segment Distribution — Mid Value 55.4%
@@ -147,7 +147,7 @@ This project delivers a **production-grade data pipeline** that transforms raw r
 
 ### 🔷 Page 3 — Mining Results
 
-![Mining Results Dashboard](https://raw.githubusercontent.com/sufiyan003/Sales-Trend-Analysis-and-Customer-Segmentation-at-Imtiaz-Super-Market/refs/heads/main/dashboard/Page%203.jpg)
+![Mining Results Dashboard](https://raw.githubusercontent.com/sufiyan003/Sales-Trend-Analysis-and-Customer-Segmentation-at-Imtiaz-Super-Market/refs/heads/main/Dashboard/Page%203.jpg)
 
 **Visuals included:**
 - 📊 Top Categories by Orders — Grocery 1,895
