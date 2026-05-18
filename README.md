@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/-%F0%9F%9B%92%20IMTIAZ%20SUPER%20MARKET-F7941D?style=for-the-badge&labelColor=0D1117&color=F7941D" alt="Imtiaz"/>
+<img src="https://raw.githubusercontent.com/sufiyan003/Sales-Trend-Analysis-and-Customer-Segmentation-at-Imtiaz-Super-Market/refs/heads/main/logo/logo.png" alt="Imtiaz"/>
 
 # Sales Trend Analysis & Customer Segmentation
 ### at Imtiaz Super Market, Karachi
