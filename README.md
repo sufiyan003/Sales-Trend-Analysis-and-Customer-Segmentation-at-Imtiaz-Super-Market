@@ -89,31 +89,7 @@ This project delivers a **production-grade data pipeline** that transforms raw r
 
 ## 🏗️ Architecture
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║          IMTIAZ SUPER MARKET — DATA PIPELINE                 ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   🌐 Imtiaz Website (shop.imtiaz.com.pk)                    ║
-║              ↓  Product catalog verification                 ║
-║   🐍 Python — Synthetic Dataset Generation                   ║
-║      Real categories | PKR prices | Karachi areas            ║
-║              ↓  17,513 rows | 27 columns                     ║
-║   🔄 Python + Pandas — ETL Pipeline                          ║
-║      Extract → Transform → Load                              ║
-║              ↓  5 Star Schema tables                         ║
-║   ❄️  Snowflake Cloud Data Warehouse (AWS)                   ║
-║      IMTIAZ_DW.RETAIL — Star Schema                          ║
-║              ↓  Python scikit-learn + mlxtend                ║
-║   🧠 Data Mining — 4 Techniques                              ║
-║      Classification | Clustering | Rules | Regression        ║
-║              ↓  Import Mode                                  ║
-║   📊 Power BI — 3-Page Interactive Dashboard                 ║
-║      Sales | Customers | Mining Results                      ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
+![Architecture Diagram](https://raw.githubusercontent.com/sufiyan003/Sales-Trend-Analysis-and-Customer-Segmentation-at-Imtiaz-Super-Market/refs/heads/main/extras/Architecture%20Diagram.png)
 
 ## 📊 Power BI Dashboard
 
@@ -159,33 +135,8 @@ This project delivers a **production-grade data pipeline** that transforms raw r
 
 ## 🗄️ Data Warehouse — Star Schema
 
-```
-                         ┌──────────────────┐
-                         │    DimTime       │
-                         │   470 rows       │
-                         │  date_key (PK)   │
-                         │  month | year    │
-                         │  quarter|season  │
-                         └────────┬─────────┘
-                                  │ date_key
-                                  │
-┌─────────────────┐    ┌──────────┴──────────┐    ┌─────────────────┐
-│  DimCustomer    │    │      FactSales       │    │   DimProduct    │
-│   500 rows      │    │    17,513 rows  ⭐   │    │   112 rows      │
-│ customer_key PK │────│  customer_key (FK)  │────│ product_key PK  │
-│ name | gender   │    │  product_key  (FK)  │    │ product_name    │
-│ area | segment  │    │  store_key    (FK)  │    │ category        │
-│ loyalty_member  │    │  date_key     (FK)  │    └─────────────────┘
-└─────────────────┘    │  sales_pkr          │
-                       │  profit_pkr         │
-                       │  quantity           │    ┌─────────────────┐
-                       │  payment_method     │    │   DimStore      │
-                       │  delivery_type      │────│   6 rows        │
-                       └─────────────────────┘    │ store_key PK    │
-                                                  │ store_name      │
-                                                  │ store_city      │
-                                                  └─────────────────┘
-```
+![Star Schema Diagram](https://raw.githubusercontent.com/sufiyan003/Sales-Trend-Analysis-and-Customer-Segmentation-at-Imtiaz-Super-Market/refs/heads/main/extras/Star%20Schema.png)
+
 
 ### ❄️ Snowflake Configuration
 
