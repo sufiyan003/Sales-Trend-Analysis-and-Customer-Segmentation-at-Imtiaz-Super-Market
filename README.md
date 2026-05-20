@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sufiyan003/Sales-Trend-Analysis-and-Customer-Segmentation-at-Imtiaz-Super-Market/refs/heads/main/logo/logo.png" alt="Imtiaz"/>
+<img src="https://raw.githubusercontent.com/sufiyan003/Sales-Trend-Analysis-and-Customer-Segmentation-at-Imtiaz-Super-Market/refs/heads/main/extras/logo.png" alt="Imtiaz"/>
 
 # Sales Trend Analysis & Customer Segmentation
 ### at Imtiaz Super Market, Karachi
